@@ -2,8 +2,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.facebook.com/Prazzeett" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="https://www.instagram.com/prazzuzuuzuu/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="https://www.facebook.com/Prazzeett" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="https://www.instagram.com/prazzuzuuzuu/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br />
 
 ### Languages and Tools:
