@@ -33,30 +33,6 @@
 
 <br />
 <br />
-
-### 📕 My Projects
-
-<!-- BLOG-POST-LIST:START -->
-<h4>Admin Panel: NSD-CelvasAI Interview assessment function (09/2020 - 11/2020)</h4>
-<p> A Korean project for the development of a module/website for an administrative purpose that tracks, records, and assess the different type of users </p>
-
-<h4>KUoom: E-Commerce (09/2020 - Present)</h4>
-
-<h4> Transportation Fare Optimization (10/2020 - Present)</h4>
-<p> A team project for implementing Dijkstra's algorithm to find the cheapest and shortest route inside Kathmandu Valley with UI for better usability. (Currently in Development phase) </p>
-
-<h4>Self Driving Car Control Module</h4>
-<p> A team project for Implementation of PID and Stanley Controller Algorithm for simulation of self-driving car in CARLA Simulator </p>
-
-<h4>Control Panel UI Designing for Carla Simulation (04/2020 - Present)</h4>
-<p> A team research project for development of UI that enhances the simulation's usability </p>
-
-<h4>Face Recognition Practice Model</h4>
-<p> An Individual project for development of face detection and recognition model using OpenCV with collected datasets </p>
-
-<h4> Easy Travel Website (05/2020 - 06/2020) </h4>
-<p> A team project for development of website of a E-ticket booking travel company located in UK </p>
-
 ---
 
 [facebook]: https://www.facebook.com/Prazzeett
