@@ -2,9 +2,6 @@
 
 [![Facebook Add](https://img.shields.io/website?label=facebook.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.facebook.com/Prazzeett)
 
-- 🌱 I’m currently in doing Major in Computer Science at Kathmandu University
-- 🥅 2020 Goals: Do as many Projects and Learn new Frameworks and coding skills!
-
 ### My Contacts:
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
