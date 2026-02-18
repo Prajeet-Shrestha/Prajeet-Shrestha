@@ -1,4 +1,4 @@
-# Hey 👋 I'm Prajeet Shrestha
+# Hey 👋 I'm Prajeet 
 
 [Portfolio](https://prajeet.com) · [LinkedIn](https://www.linkedin.com/in/prajeet-shrestha-4a767316a/) · [Email](mailto:prajeet.shrestha.biz@gmail.com)
 
